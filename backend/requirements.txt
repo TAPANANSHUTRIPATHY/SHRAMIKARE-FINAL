@@ -3,10 +3,11 @@ firebase-admin
 googletrans
 requests
 uvicorn
+google
+google-genai
 google-generativeai
 python-dateutil
 twilio
 python-dotenv
 urllib3
-os
-string
+python-multipart
