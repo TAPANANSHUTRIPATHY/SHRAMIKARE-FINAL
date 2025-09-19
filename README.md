@@ -22,19 +22,39 @@ The platform ensures **portable, multilingual, and paperless medical records**, 
 👉 Replace these placeholders with actual screenshots or demo GIFs.  
 
 ### 🔹 Landing Page  
-![Landing Page](https://via.placeholder.com/800x400?text=Landing+Page+Screenshot)  
+![Screenshot_19-9-2025_232943_localhost](https://github.com/user-attachments/assets/76b4b9a2-26f1-473e-bc46-21cab272abc9)
 
-### 🔹 Multilingual Support  
-![Multilingual](https://via.placeholder.com/800x400?text=Language+Switcher+Screenshot)  
+### 🔹 OTP Login Page
+![Screenshot_19-9-2025_231553_localhost](https://github.com/user-attachments/assets/54d97b81-f437-4eeb-a89f-93786faae95d)
 
-### 🔹 Aadhaar Lookup & QR Scan  
-![Aadhaar QR](https://via.placeholder.com/800x400?text=Aadhaar+Lookup+%2B+QR+Scan)  
+### 🔹 Sample OTP SMS
+![a4843620-0cf0-462f-bdad-120fbafd44de](https://github.com/user-attachments/assets/1c1d6db2-af59-4c33-9251-91498bfb6bd2)
+
+
+### 🔹 Facility Details Page
+![Screenshot_19-9-2025_23165_localhost](https://github.com/user-attachments/assets/83ffd4bd-2d76-47b6-81fd-3ac0e768322d)
+
+### 🔹 Aadhaar Lookup
+![Screenshot_19-9-2025_231613_localhost](https://github.com/user-attachments/assets/90f8259a-44e4-4097-9d2a-f28f3ed273ce)
 
 ### 🔹 Health Records Dashboard  
-![Dashboard](https://via.placeholder.com/800x400?text=Health+Records+Dashboard)  
+![Screenshot_19-9-2025_231622_localhost](https://github.com/user-attachments/assets/b32f0768-d4d3-4a62-bfe0-0b6d0e1ad9d8)
+
+### 🔹 QR Scan Result
+<img width="780" height="972" alt="Screenshot 2025-09-19 223850" src="https://github.com/user-attachments/assets/63682fbf-7642-4ed5-b2f3-1edecad35f8b" />
+
 
 ### 🔹 SMS Reminder Workflow  
-![SMS Reminder](https://via.placeholder.com/800x400?text=SMS+Reminder+System)  
+<img width="951" height="809" alt="Screenshot 2025-09-19 224358" src="https://github.com/user-attachments/assets/bde0d5de-2413-4136-b886-f88daba12a2d" />
+
+### 🔹 Sample SMS Reminder
+![3f6a33eb-1f2a-4d25-adf0-95bd88a55e31](https://github.com/user-attachments/assets/09c93a76-2073-4f0c-872f-641992c15669)
+![0642aee5-556d-4b77-a995-b7c469403825](https://github.com/user-attachments/assets/8ba0e65d-111a-4ae2-8c23-2a2ce74b2200)
+
+
+### 🔹 Outbreak Prediction Workflow 
+<img width="800" height="976" alt="Screenshot 2025-09-19 224315" src="https://github.com/user-attachments/assets/78ecab65-bf6d-4f6a-a4ac-2d2afc387aa9" />
+
 
 ---
 
