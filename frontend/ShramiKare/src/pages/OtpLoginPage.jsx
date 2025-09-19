@@ -77,7 +77,7 @@ export default function OtpLoginPage() {
                 <path d="M12 21C12 21 7 16.5 5.5 13.5C3.5 10 6.5 7 10 10C13.5 13 17.5 9 16.5 13.5C15 16.5 12 21 12 21Z" />
               </svg>
             </div>
-            <h1 className="text-2xl text-green-800 font-bold">Shramikare</h1>
+            <h1 className="text-2xl text-green-800 font-bold">ShramiKare</h1>
             <p className="text-green-700">Caring for Workers' Health</p>
           </div>
           <h2 className="font-semibold text-green-700 text-center mb-6 text-xl">

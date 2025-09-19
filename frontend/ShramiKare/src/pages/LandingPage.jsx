@@ -10,7 +10,7 @@ export default function LandingPage() {
         <div className="bg-green-800 rounded-full p-10 flex items-center justify-center">
           <Heart className="h-16 w-16 text-white" />
         </div>
-        <h1 className="text-4xl mt-6 font-bold text-green-900">Shramikare</h1>
+        <h1 className="text-4xl mt-6 font-bold text-green-900">ShramiKare</h1>
         <p className="text-lg mt-2 text-green-700 font-medium">
           Caring for Workers' Health
         </p>

@@ -217,7 +217,7 @@ export default function DigitalHealthIdPage({ userId }) {
         <div className="bg-green-700 rounded-t-xl p-7">
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="flex flex-col items-start gap-2 flex-1">
-              <span className="text-white font-bold">Shramikare</span>
+              <span className="text-white font-bold">ShramiKare</span>
               <span className="text-white text-sm opacity-80">Digital Health Record System</span>
             </div>
             <div className="flex flex-1 justify-end">

@@ -221,9 +221,9 @@ async def generate_otp(user_id: str = Form(...)):
     result = store_otp(user_id, otp)
     if result.get("success"):
         # Translate OTP message to user's preferred language and send SMS
-        user = get_user_by_id(user_id)
+        user = search_user_by_aadhaar(user_id)#get_user_by_id(user_id)
         if user.get("success") and user.get("data"):
-            user_data = user["data"]
+            user_data = user["data"][0]
             target_language = user_data.get("language", "en")
             phone_number = str(user_data.get("phonenumber"))
             otp_message = f"Your OTP is: {otp}"
@@ -271,7 +271,8 @@ async def send_followup_reminders():
                 continue
 
             try:
-                next_followup_date = datetime.strptime(next_followup_str, "%Y-%m-%d").date()
+                next_followup_str_clean = next_followup_str.strip()
+                next_followup_date = datetime.strptime(next_followup_str_clean, "%Y-%m-%d").date()
             except ValueError:
                 continue  # Skip invalid date format
 
