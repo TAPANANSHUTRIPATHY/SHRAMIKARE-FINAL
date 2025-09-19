@@ -142,11 +142,10 @@ uvicorn main:app --reload
 * [Firebase Firestore Docs](https://firebase.google.com/docs/firestore)
 * [Twilio SMS API](https://www.twilio.com/docs/sms)
 * [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
-* [Eko Aadhaar API](https://developers.eko.in/reference/authenticationn)
 
 ---
 
-## 👥 Team – **Stellabytes**
+## 👥 Team – **StellaRythm**
 
 * **Tapananshu Tripathy**
 * **Ujjwal Singh**
