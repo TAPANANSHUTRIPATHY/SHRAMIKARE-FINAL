@@ -12,8 +12,16 @@ export default function Layout() {
                 
                 <Link to="/">
                     <div className="flex items-center gap-2">
-                        <div className="bg-green-800 rounded-l w-8 h-8 flex items-center justify-center">
-                            <Heart className="h-6 w-6 text-white" />
+                        <div className="rounded-l w-10 h-10 flex items-center justify-center">
+                            <img
+                            src="/new_logo.png"
+                            alt="ShramiKare Logo"
+                            className="rounded-lg max-h-32 shadow mt-6 mb-2"
+                            onError={e => {
+                                e.target.onerror = null;
+                                e.target.src = "/sample_aadhar.png";
+                            }}
+                            />
                         </div>
                         <span className="text-green-900 font-bold text-xl">ShramiKare</span>
                     </div>
@@ -38,7 +46,7 @@ export default function Layout() {
                     </svg>
                 </button>
                 {/* Desktop nav */}
-                <nav className="hidden md:flex gap-8 text-green-700 font-medium">
+                <nav className="hidden md:flex gap-8 text-blue-700 hover:text-blue-800 font-medium">
                     <Link to="/login">Login</Link>
                     <Link to="/doctor-details">Doctor Details</Link>
                     <Link to="/aadhaar-capture">Aadhaar Viewer</Link>
@@ -59,7 +67,7 @@ export default function Layout() {
                 <Outlet />
             </main>
 
-            <footer className="py-6 text-center text-green-600 bg-green-50 border-t mt-14 text-sm">
+            <footer className="py-6 text-center bg-blue-100 text-blue-700 border-t mt-14 text-sm">
                 © 2025 ShramiKare | Health & Care for Every Worker
             </footer>
         </div>

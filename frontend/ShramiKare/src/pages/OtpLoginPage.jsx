@@ -66,16 +66,16 @@ export default function OtpLoginPage() {
       <main className="flex flex-col items-center justify-center py-20">
         <div className="bg-green-100 rounded-xl shadow-lg w-full max-w-md px-8 py-10">
           <div className="flex flex-col items-center mb-8">
-            <div className="bg-green-700 rounded-full p-3 mb-3">
-              <svg
-                className="w-10 h-10 text-white"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth={2}
-                viewBox="0 0 24 24"
-              >
-                <path d="M12 21C12 21 7 16.5 5.5 13.5C3.5 10 6.5 7 10 10C13.5 13 17.5 9 16.5 13.5C15 16.5 12 21 12 21Z" />
-              </svg>
+            <div className="rounded-full p-3 mb-3">
+              <img
+              src="/new_logo.png"
+              alt="ShramiKare Logo"
+              className="rounded-lg max-h-32 shadow mt-6 mb-2"
+              onError={e => {
+                e.target.onerror = null;
+                e.target.src = "/sample_aadhar.png";
+              }}
+            />
             </div>
             <h1 className="text-2xl text-green-800 font-bold">ShramiKare</h1>
             <p className="text-green-700">Caring for Workers' Health</p>
