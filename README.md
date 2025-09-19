@@ -155,5 +155,3 @@ uvicorn main:app --reload
 * **Tejas Mahapatra**
 
 ---
-
-🔥 This README has **badges, screenshots placeholders, system diagram, setup guide, and team info** → perfect for **GitHub + SIH 2025 submission**.
