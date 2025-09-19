@@ -159,7 +159,7 @@ uvicorn main:app --reload
 * [SIH 2025 Problem Statement](https://sih.gov.in/sih2025PS)
 * [Firebase Firestore Docs](https://firebase.google.com/docs/firestore)
 * [Twilio SMS API](https://www.twilio.com/docs/sms)
-* [Gemini API](https://github.com/openai/openai-cookbook)
+* [Gemini API](https://ai.google.dev/gemini-api/docs)
 * [Googletrans](https://pypi.org/project/googletrans/)
 
 ---
