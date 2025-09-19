@@ -142,11 +142,10 @@ uvicorn main:app --reload
 * [Firebase Firestore Docs](https://firebase.google.com/docs/firestore)
 * [Twilio SMS API](https://www.twilio.com/docs/sms)
 * [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
-* [Eko Aadhaar API](https://developers.eko.in/reference/authenticationn)
 
 ---
 
-## 👥 Team – **Stellabytes**
+## 👥 Team – **StellaRythm**
 
 * **Tapananshu Tripathy**
 * **Ujjwal Singh**
@@ -156,3 +155,5 @@ uvicorn main:app --reload
 * **Tejas Mahapatra**
 
 ---
+
+🔥 This README has **badges, screenshots placeholders, system diagram, setup guide, and team info** → perfect for **GitHub + SIH 2025 submission**.
