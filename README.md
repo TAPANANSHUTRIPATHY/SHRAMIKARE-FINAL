@@ -4,7 +4,7 @@
 ![Made with React](https://img.shields.io/badge/Frontend-React.js-61DAFB?logo=react&logoColor=white&style=flat-square)  
 ![Made with FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)  
 ![Database](https://img.shields.io/badge/Database-Firebase-F6820D?logo=firebase&logoColor=white&style=flat-square)  
-![Deployed](https://img.shields.io/badge/Deployed-Cloud-blue?style=flat-square)  
+
 ![Hackathon](https://img.shields.io/badge/Event-SIH%202025-orange?style=flat-square)  
 
 ---
