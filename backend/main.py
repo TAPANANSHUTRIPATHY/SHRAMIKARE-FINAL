@@ -14,6 +14,8 @@ from fastapi import Form
 import random
 from QR_generator import generate_qr
 from datetime import datetime, timezone
+import os
+import uvicorn
 
 app = FastAPI(root_path="/api")
 # app = FastAPI()
