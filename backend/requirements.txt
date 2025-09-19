@@ -2,3 +2,11 @@ fastapi
 firebase-admin
 googletrans
 requests
+uvicorn
+google-generativeai
+python-dateutil
+twilio
+python-dotenv
+urllib3
+os
+string
