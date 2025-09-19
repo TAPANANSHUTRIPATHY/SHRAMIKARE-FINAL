@@ -304,9 +304,9 @@ async def send_followup_reminders():
 
 import asyncio
 
-if __name__=="__main__":
-    asyncio.run(send_followup_reminders())
-
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 8080))
+    uvicorn.run(app, host="0.0.0.0", port=port)
 
 
 #kepp in mind about async and all for running different functions, according to await and all  
