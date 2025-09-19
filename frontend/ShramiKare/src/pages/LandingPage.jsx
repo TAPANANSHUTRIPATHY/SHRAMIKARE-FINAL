@@ -22,7 +22,7 @@ export default function LandingPage() {
         />
         <h1 className="text-4xl mt-6 font-bold text-green-900">ShramiKare</h1>
         <p className="text-lg mt-2 text-green-700 font-medium">
-          Caring for Workers' Health
+          Care for the hands that build
         </p>
         <p className="text-center max-w-3xl text-green-700 mt-4 mb-6">
           A comprehensive Digital Health Record Management System designed specifically for migrant workers in Kerala. 
@@ -106,7 +106,7 @@ export default function LandingPage() {
           />
           </div>
           <div className="text-center">
-            <h4 className="font-bold mb-1 text-green-800">Health for Every Worker</h4>
+            <h4 className="font-bold mb-1 text-green-800">Health & Care for Every Worker</h4>
             <p className="text-green-700 text-sm">
               Join thousands of workers registering for secure, accessible healthcare management.
             </p>

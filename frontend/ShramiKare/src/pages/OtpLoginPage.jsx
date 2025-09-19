@@ -78,7 +78,7 @@ export default function OtpLoginPage() {
             />
             </div>
             <h1 className="text-2xl text-green-800 font-bold">ShramiKare</h1>
-            <p className="text-green-700">Caring for Workers' Health</p>
+            <p className="text-green-700">Care for the hands that build</p>
           </div>
           <h2 className="font-semibold text-green-700 text-center mb-6 text-xl">
             Welcome Back

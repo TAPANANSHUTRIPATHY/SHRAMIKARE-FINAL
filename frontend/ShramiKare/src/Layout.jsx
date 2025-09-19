@@ -26,7 +26,7 @@ export default function Layout() {
                         <span className="text-green-900 font-bold text-xl">ShramiKare</span>
                     </div>
                     <span className="block text-xs italic text-green-700 font-medium mt-1 ml-10">
-                        Caring for Workers' Health
+                        Care for the hands that build
                     </span>
                 </Link>
                 {/* Hamburger for mobile */}
@@ -68,7 +68,7 @@ export default function Layout() {
             </main>
 
             <footer className="py-6 text-center bg-blue-100 text-blue-700 border-t mt-14 text-sm">
-                © 2025 ShramiKare | Health & Care for Every Worker
+                © 2025 ShramiKare | Care for the hands that build
             </footer>
         </div>
     );
