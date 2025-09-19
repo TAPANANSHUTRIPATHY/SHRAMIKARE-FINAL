@@ -1,4 +1,3 @@
-# SHRAMIKARE-FINAL 
 # 📌 ShramiKare – Multilingual Digital Health Record System  
 
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)  
