@@ -17,8 +17,6 @@ The platform ensures **portable, multilingual, and paperless medical records**, 
 
 ## 🖼️ Screenshots & Demo  
 
-👉 Replace these placeholders with actual screenshots or demo GIFs.  
-
 ### 🔹 Landing Page  
 ![Screenshot_19-9-2025_232943_localhost](https://github.com/user-attachments/assets/76b4b9a2-26f1-473e-bc46-21cab272abc9)
 
