@@ -1,17 +1,19 @@
-# SHRAMIKARE-FINAL# 
-📌 Shramikare Green Health – Multilingual Digital Health Record System  
+# 📌 ShramiKare – Multilingual Digital Health Record System  
 
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)  
 ![Made with React](https://img.shields.io/badge/Frontend-React.js-61DAFB?logo=react&logoColor=white&style=flat-square)  
 ![Made with FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)  
 ![Database](https://img.shields.io/badge/Database-Firebase-F6820D?logo=firebase&logoColor=white&style=flat-square)  
-![Deployed](https://img.shields.io/badge/Deployed-Cloud-blue?style=flat-square)  
 ![Hackathon](https://img.shields.io/badge/Event-SIH%202025-orange?style=flat-square)  
 
 ---
+<div style="text-align: center;">
+  <img width="360" height="360" alt="Picsart_25-09-19_22-08-34-563" src="https://github.com/user-attachments/assets/449a0f30-3c95-4013-be2f-2d41f92a1348" />
+</div>
+
 
 ## 🌟 Overview  
-**Shramikare Green Health** is a **Digital Health Record Management System** designed for **migrant workers in Kerala**, aligned with **SDG-3 (Good Health and Well-being)**.  
+**ShramiKare** is a **Digital Health Record Management System** designed for **migrant workers in Kerala**, aligned with **SDG-3 (Good Health and Well-being)**.  
 
 The platform ensures **portable, multilingual, and paperless medical records**, accessible via **QR codes, Aadhaar lookup, or SMS-based reminders**, empowering migrant workers with seamless healthcare access.  
 
@@ -19,26 +21,24 @@ The platform ensures **portable, multilingual, and paperless medical records**, 
 
 ## 🖼️ Screenshots & Demo  
 
-👉 Replace these placeholders with actual screenshots or demo GIFs.  
-
 ### 🔹 Landing Page  
-![Screenshot_19-9-2025_232943_localhost](https://github.com/user-attachments/assets/76b4b9a2-26f1-473e-bc46-21cab272abc9)
+![Screenshot_20-9-2025_14654_localhost](https://github.com/user-attachments/assets/314329a5-22ae-44bf-b747-d6ee95bd830d)
 
 ### 🔹 OTP Login Page
-![Screenshot_19-9-2025_231553_localhost](https://github.com/user-attachments/assets/54d97b81-f437-4eeb-a89f-93786faae95d)
+![Screenshot_20-9-2025_1477_localhost](https://github.com/user-attachments/assets/17a69d6a-7915-42ab-a801-2f9fcd218b6b)
 
 ### 🔹 Sample OTP SMS
 ![a4843620-0cf0-462f-bdad-120fbafd44de](https://github.com/user-attachments/assets/1c1d6db2-af59-4c33-9251-91498bfb6bd2)
 
 
 ### 🔹 Facility Details Page
-![Screenshot_19-9-2025_23165_localhost](https://github.com/user-attachments/assets/83ffd4bd-2d76-47b6-81fd-3ac0e768322d)
+![Screenshot_20-9-2025_1488_localhost](https://github.com/user-attachments/assets/5daa3fb5-f2ea-4404-8a93-d1eae4d16fe2)
 
 ### 🔹 Aadhaar Lookup
-![Screenshot_19-9-2025_231613_localhost](https://github.com/user-attachments/assets/90f8259a-44e4-4097-9d2a-f28f3ed273ce)
+![Screenshot_20-9-2025_14815_localhost](https://github.com/user-attachments/assets/7dcc8ce0-a52b-4e18-97ca-37de57622489)
 
 ### 🔹 Health Records Dashboard  
-![Screenshot_19-9-2025_231622_localhost](https://github.com/user-attachments/assets/b32f0768-d4d3-4a62-bfe0-0b6d0e1ad9d8)
+![Screenshot_20-9-2025_14826_localhost](https://github.com/user-attachments/assets/ee6a3c44-2512-467a-a8aa-f7cf3713ec16)
 
 ### 🔹 QR Scan Result
 <img width="780" height="972" alt="Screenshot 2025-09-19 223850" src="https://github.com/user-attachments/assets/63682fbf-7642-4ed5-b2f3-1edecad35f8b" />
@@ -81,11 +81,10 @@ The platform ensures **portable, multilingual, and paperless medical records**, 
 | Layer       | Technology |
 |-------------|------------|
 | **Frontend** | ⚛️ React.js, Tailwind CSS |
-| **Backend**  | 🐍 FastAPI (Python), Express.js (Node) |
+| **Backend**  | 🐍 FastAPI (Python) |
 | **Database** | 🔥 Firebase Firestore |
 | **Messaging** | 📩 Twilio SMS API |
-| **Identity** | 🆔 Aadhaar (via Eko API) |
-| **Analytics** | 📊 Python (Pandas), OpenAI API (optional) |
+| **Identity** | 🆔 Aadhaar |
 
 ---
 
@@ -161,9 +160,12 @@ uvicorn main:app --reload
 * [SIH 2025 Problem Statement](https://sih.gov.in/sih2025PS)
 * [Firebase Firestore Docs](https://firebase.google.com/docs/firestore)
 * [Twilio SMS API](https://www.twilio.com/docs/sms)
-* [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+* [Gemini API](https://ai.google.dev/gemini-api/docs)
+* [Googletrans](https://pypi.org/project/googletrans/)
 
 ---
+
+<img width="443" height="72" alt="image" src="https://github.com/user-attachments/assets/4e106050-fd2c-4e52-bc96-db076cae573b" />
 
 ## 👥 Team – **StellaRythm**
 
