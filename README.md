@@ -80,11 +80,10 @@ The platform ensures **portable, multilingual, and paperless medical records**, 
 | Layer       | Technology |
 |-------------|------------|
 | **Frontend** | ⚛️ React.js, Tailwind CSS |
-| **Backend**  | 🐍 FastAPI (Python), Express.js (Node) |
+| **Backend**  | 🐍 FastAPI (Python) |
 | **Database** | 🔥 Firebase Firestore |
 | **Messaging** | 📩 Twilio SMS API |
-| **Identity** | 🆔 Aadhaar (via Eko API) |
-| **Analytics** | 📊 Python (Pandas), OpenAI API (optional) |
+| **Identity** | 🆔 Aadhaar |
 
 ---
 
@@ -160,7 +159,8 @@ uvicorn main:app --reload
 * [SIH 2025 Problem Statement](https://sih.gov.in/sih2025PS)
 * [Firebase Firestore Docs](https://firebase.google.com/docs/firestore)
 * [Twilio SMS API](https://www.twilio.com/docs/sms)
-* [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+* [Gemini API](https://github.com/openai/openai-cookbook)
+* [Googletrans](https://pypi.org/project/googletrans/)
 
 ---
 
