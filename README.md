@@ -1,5 +1,5 @@
-#SHRAMIKARE-FINAL# 
-📌 Shramikare Green Health – Multilingual Digital Health Record System  
+# SHRAMIKARE-FINAL 
+# 📌 ShramiKare – Multilingual Digital Health Record System  
 
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)  
 ![Made with React](https://img.shields.io/badge/Frontend-React.js-61DAFB?logo=react&logoColor=white&style=flat-square)  
@@ -11,7 +11,7 @@
 ---
 
 ## 🌟 Overview  
-**Shramikare Green Health** is a **Digital Health Record Management System** designed for **migrant workers in Kerala**, aligned with **SDG-3 (Good Health and Well-being)**.  
+**ShramiKare** is a **Digital Health Record Management System** designed for **migrant workers in Kerala**, aligned with **SDG-3 (Good Health and Well-being)**.  
 
 The platform ensures **portable, multilingual, and paperless medical records**, accessible via **QR codes, Aadhaar lookup, or SMS-based reminders**, empowering migrant workers with seamless healthcare access.  
 
