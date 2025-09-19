@@ -15,7 +15,7 @@ export default function Layout() {
                         <div className="bg-green-800 rounded-l w-8 h-8 flex items-center justify-center">
                             <Heart className="h-6 w-6 text-white" />
                         </div>
-                        <span className="text-green-900 font-bold text-xl">Shramikare</span>
+                        <span className="text-green-900 font-bold text-xl">ShramiKare</span>
                     </div>
                     <span className="block text-xs italic text-green-700 font-medium mt-1 ml-10">
                         Caring for Workers' Health

@@ -4,7 +4,7 @@ import dotenv
 import os
 dotenv.load_dotenv()
 from google import genai
-from google.genai import types
+# from google.genai import types
 from datetime import datetime
 
 NVIDIA_API_KEY = os.getenv("NVIDIA_API_KEY")
