@@ -166,6 +166,7 @@ uvicorn main:app --reload
 ---
 
 <img width="443" height="72" alt="image" src="https://github.com/user-attachments/assets/4e106050-fd2c-4e52-bc96-db076cae573b" />
+
 ## 👥 Team – **StellaRythm**
 
 * **Tapananshu Tripathy**
